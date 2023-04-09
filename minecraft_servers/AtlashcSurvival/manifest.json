@@ -1,0 +1,24 @@
+{
+  "server_name": "Atlashc Survival",
+  "nice_name": "Atlashc Survival",
+  "direct_ip": "hehe.tasrv.com",
+  "server_wildcards": [
+    "%.hehe.tasrv.com"
+  ],
+  "supported_languages": [
+     "pl"
+  ],
+  "social": {
+    "web": "https://hehe.tasrv.com",
+    "web_shop": "https://hehe.tasrv.com/sklep",
+    "tiktok": "awski0",
+    "facebook": "awskiszef",
+    "instagram": "awskiszef",
+    "discord": "https://discord.com/invite/awskiszef",
+    "youtube": "https://www.youtube.com/c/awski"
+  },
+  "brand": {
+     "primary": "#2a2a2a",
+     "background": "#ff6301"
+  }
+}
